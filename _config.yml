@@ -6,6 +6,8 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
+markdown: kramdown
+theme: jekyll-theme-cayman
 title: Your awesome title
 email: r.galczak@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
@@ -16,5 +18,3 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gala377.github.io" # the base hostname & protocol for your site
 github_username:  gala377
 
-markdown: kramdown
-theme: jekyll-theme-cayman
