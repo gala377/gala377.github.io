@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -7,14 +8,18 @@
 
 # Site settings
 title: Your awesome title
-email: r.galczak@gmail.com
+email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://gala377.github.io" # the base hostname & protocol for your site
-github_username:  gala377
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  jekyll
 
+# Build settings
 markdown: kramdown
+=======
 theme: jekyll-theme-cayman
+>>>>>>> 6e82ed1094baeb6c14729e9ead9e43fa97d9195c
